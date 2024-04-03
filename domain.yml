@@ -1,0 +1,63 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - bot_challenge
+  - book_room
+  - nbr_room
+  - type_room
+  - family_room
+  - cancel_booking
+  - confirm_booking
+
+responses:
+  utter_greet:
+    - text: "welcome in Star Hotel chatbot !how can i help you?"
+
+  utter_goodbye:
+    - text: "Bye"
+
+  utter_iamabot:
+    - text: "I am a bot, powered by Rasa."
+
+  utter_nbr_room:
+    - text: "how many room would you like to book? and which Type,single room or family room?"
+
+  utter_type_room:
+    - text: "what type of room you want to book? single room or family room?"
+
+  utter_confirm:
+    - text: "you want to confirm your reservation?"
+
+  utter_yes_confirm:
+    - text: "your resevation is successfuly done"
+
+  utter_cancel_booking:
+    - text: "Your booking has been successfully cancelled."
+
+#actions:
+#- action_cancel_booking
+
+entities:
+  - number
+  - type
+
+slots:
+  number_of_rooms:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: number
+
+  room_type:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: type
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

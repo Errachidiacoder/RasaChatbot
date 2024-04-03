@@ -1,0 +1,35 @@
+stories:
+  - story: path1
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: book_room
+      - action: utter_nbr_room
+      - intent: type_room
+      - action: utter_confirm
+      - intent: confirm_booking
+      - action: utter_yes_confirm
+
+  - story: path2
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: book_room
+      - action: utter_nbr_room
+      - intent: type_room
+      - action: utter_confirm
+      - intent: cancel_booking
+      - action: utter_cancel_booking
+
+  # - story: path3
+  #   steps:
+  #     - intent: greet
+  #     - action: utter_greet
+  #     - intent: book_room
+  #     - action: utter_nbr_room
+  #     - intent: nbr_room
+  #     - action: utter_type_room
+  #     - intent: family_room
+  #     - action: utter_confirm
+  #     - intent: cancel_booking
+  #     - action: utter_cancel_booking

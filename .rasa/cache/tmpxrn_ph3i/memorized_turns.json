@@ -1,0 +1,27 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVSfn52fFF+fm5tbWxAOwQUBs=": "utter_nbr_room",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVSfn52fFF+fm5xLkkL6kIohqfQbEAxIdsJA==": "action_listen",
+    "eJydjmEKgCAMRq+yA3QCrxIhGiOk3GLO/oh3TzD6a/RvHzze3lzqBOUUvKxbNTAZKP2w5CIaeMYRkiI1NieUxgRqUw1sgqh14MiqKLaj/wyDCs+8W2GO30rIS6f/iwZB74e63IbIhz8=": "utter_type_room",
+    "eJydjmEKgCAMRq/iATqBV4kQixFSbTFnEOLdE4z6FUr/9sHj7fUxdSruDIexkzhCrWI5DNoNtLrH6rwAZjZ44Mw4zFO0mhlAUsURRIBNQf8ZKhUj0WKYaGsrwZEL/V9UCXo+NPXIucNH0CsaLh3mo18=": "action_listen",
+    "eJydjmEKgCAMRq/iATqBV4mQjCFSbTFnEOLdE4z+hdK/DR7ve2PKg0oHw2nmRTyhVqkeBucdtHqezQcBLGwMwIXxWF7RyjGA5IYjigCbiv4zNCos0WqYaO8rQcuV/i9qBL0LXT1yHfAR1Ctq9ASPbns28nQDcDu/ug==": "utter_confirm",
+    "eJydjmEKgzAMRq/SA+wEvcqQovIpYZpIGgejePcVOgaDjXb+ywePl3dNx8WlTXEP/Wgk7F0qR+B+hXevsVA0cGb3CM0McZ7m3ayAHRXHbgYNBT1nqFQMIregImtbCQ9a6POiStD7Q1OPPTb8CGoVVXoi8bzgj6RReCL9EvRh6p75TNwq": "action_listen",
+    "eJydkFEKwyAMQK/iAXYCrzKGWMmKzCYlpoMh3n0Oy742YvuXwOPlkWupF1NWhqfzQSKhNaUPDv0C1uxLilkAG7tl4MZEbKtYMzOAVMWxiQC7jp4zKBUT0cMx0TJWghN3+rxICfpeGOqR1wp/gkZFSk+OOCc4kBQI75F/BB0wKU3BY4DkPi9vzlpvb6DA+ZU=": "action_cancel_booking",
+    "eJydkFEKwjAMhq/SA3iCXkVG6Uo2il0y0kyQsrtbqfggSrq95Yc/Xz5yLfvFlJXh7nyQSGhNaYNDv4A175BiFsDa3TJw7USsUayZGUB2hbGJALtWPUdQLEaim2Oipc8ER27t8yBF6HOhy0ceK/wR6gUpPjninOCAUiCcIv8QOkBSnILHAMm9Xl6ZnbCvJRU6PAHp1Rou": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpZSYUJ6YVxKflJ+fjdOUWABSz09W": "action_listen",
+    "eJylj1EKgCAQBa/iATqBV4lYLJaQcjfWtT7Eu2fYv1B/b2AYeGMug8mH4AluUc9kTW4DyAW05oXdR0Wqbooo1fFUUa1ZBVFLp5FUUaCpfwqXI4WZeftY6Xx5yiDMoZTpBoIYato=": "utter_nbr_room",
+    "eJylj0EKgDAMBL/SB/iCfkUktBKkqImkUQ+lf7dSzyp624Vh2G1TbkxaBDdwvQYma1INQG5Ga64yhahIhV0jSmEClarWDIKo+cGxqqJARf8YdkcKnnn8aHn4cppBmOd3a8hLpe9E3QH7b4bj": "action_listen",
+    "eJylj0EKgDAMBL/SB/iCfkUktBKkqInEqIfSv1upeK3oLQvD7KaNqTFxEdzB9RqYrInlAHIzWnOHKayKlNltRclMoBzVmkEQNVUcmyoKFPSP4XCk4JnHj5bKL5cZhHl+t4a8FPq7qDLoaUjdCSkhof4=": "utter_type_room",
+    "eJylj9EJhTAMAFfpAE7QVURClSDlaSIxKlLc/VUq+iUV/UvguFzKsBUmDIIzuEY9kzUhDUCuR2uOpfOjIkV2GlEi4ymuak0riLplHJMqCiT0i2FxpFAz/15aMr/sZhDm/lkN1ZLo96JM0HnhUY+uA94EXaLqD2Efvh4=": "action_listen",
+    "eJylj1EKgzAMQK/SA3iCXmVIqCOTok0kRkWKd7dS2d9ocX8JPF5eXvFoTJwEV3Bv9UzWxDwAuYDW3MvoZ0VK7DKjJMZTWtWaXhD1KDgWVRTI6D+GzZFCxzw8tBR+ucwgzKGuhjrJ9HNRIeh7oapH9wl/BNWKCj0fF/y436b2BG7C2nk=": "utter_confirm",
+    "eJylj1EKwjAMQK/SA3iCXkUkdCOT4JqMLFNG2d2tVARBaZ1/CTxeXo5pO7g0KV4h9EbC3qUyAIeI3j2XkWZDzuwyo2aGOK/m3VkRbas4FjNUKOg/hltgg07kstNS+eVhBhWJbTXcaaH3iypBrwtNPbZO+CWoVVTpGUKkcf0hqRceSD8EvZlOd7Mh9uk=": "action_listen",
+    "eJylklEKgzAMhq/SA+wEvcoYpUqUMJtIjBtSevc5K3vaaHVv+eHnyxfINaaLiaPAw/lWkcmamAdHPoA1exhwUqC1O08gawdpjWpNLwCaCoxZFcTl6j+Epyd1DfP9JKVwy5vshDnU2VAjuX0eVBD6bKjy0WWEH0K1oIJP5wMOywGllqlD+SJ0gFRw2ldsb4HUp3R7AX0BFOs=": "utter_yes_confirm",
+    "eJylklEKgzAMhq/SA+wEvcoYpUqUMptIjBulePd1VvaySat7yw8/X75ArnG5qDgyPIxtxRFqFfNg0HrQaguDmwQwdecJOHUcpiha9QwgS4ExiwCbXP2H8LQopiG6n6QUbnmTDRP5OhtsOLfPgwpCnw1VPhJG2BGqBRV8OuvdEA4otYSd4x9CB0gFp23F+hYO+zqvANO+2xfx9gJBbzSj": "action_listen",
+    "eJylklEKwjAMhq/SA3iCXkWkdCUbxTYZWaaM0rtbrfiktJtv+eHnyxfIOeWTSjPDzVgnnlCrVAeDNoJW7xD8IoCluy7ApeOxRNFqYgDJDcYqAmxq9R/C3aKYgeh6kNK45Uk2TBT7bHDg2j4Oagh9NnT5yDbDD6FeUMNntNGHbYeSIxw9fxHaQWo4OYsOwusrPE45Xx5mgBRj": "action_cancel_booking",
+    "eJylklEKwjAMhq/SA3iCXkWkdCUbxTYdWaaMsrtbV/FBlHTzLYE/X75Aznk9qTwS3Ix17BNqlWth0EbQ6tUEPzFgyc4TUMl4LC1rNRAArwJjZgYyNfoP4W6RTZfS9SBFuOVJNpRSbLPBjmr6OEgQem9o8uFlhB9CrSDBp7fRh2WHkkvYe/oitIMkODmLDsL2FR6HRtjHkAi9PACRhzTt": "action_listen",
+    "eJydkGEKgzAMha/SA+wEvYqMoJJJmSaSxsEovfs6Kvs1SfVfHjy+95Eu5ZtLq+AL+lEDk3epHkD9gt7tYQ5RkUp3iyilE6hE9W4SRM0GY1NFgVq9RjAsBuYnCPPSZkKD1PZ1kCH0W2jy0feKB0KtIMMnBppmPKE0Mj2C/BE6QTKc9gn4/rxAc75/AJyC+h0=": "utter_yes_confirm",
+    "eJyd0FEKgzAMgOGr9AA7Qa8yRlHJJEwTSeNAindfR8WXTVJ9ayD8+eg9rTeXJoF3aDpFJu9SeQRqRvBuGwaMCpR35wiSd5DyqN71AqCr0ZhVQUJZvVYwFC3zKwjzWCehVsr29ZAB2i9UeXSZ4ABUGzI8Eakf4ASpY3qi/AGdKBmm7UT4/nmO1rkWiMe2n+LjA887GeQ=": "action_listen"
+  }
+}

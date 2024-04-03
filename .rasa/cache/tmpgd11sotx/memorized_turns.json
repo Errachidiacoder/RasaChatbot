@@ -1,0 +1,15 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVSfn52fFF+fm5tbWxAOwQUBs=": "utter_nbr_room",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVSfn52fFF+fm5xLkkL6kIohqfQbEAxIdsJA==": "action_listen",
+    "eJydjlEKgCAQBa/iATqBV4kQjSWk2pV1DUK8e4L+G/69B8Mway6LyoHhMXYXT6hVbsOgvUGrfi4fBbCyKQJXxmO9otXBAFIGjiQCbBo6ZxhUOKLTMNH9rwQdN3peNAiSN0D3bB8PYYe/": "utter_confirm",
+    "eJydjlEKgCAQBa/iATqBV4mQlC2k2o1tC0K8e4J99BFY/r0HwzBtiI0KK8NheieeUKuQh8F+Aa3uM/tNABO7b8CJ8ZiuaDUygMSCYxcBNhmtMxQqLNFkmGj5VoKWM10vKgTJucKPIEc4eH7peXi6CyIIo28=": "action_listen",
+    "eJydj1EKhDAMBa/SA+wJepVFQi1RgppIjAtL6d23Uj+Fuv7lwTBM3im/XFoVPxCikbB3qR7AYUHvzjHTZsiF3TfUwhCXad6Nimi54djNUKGizwyNil5kAhVZ7pVwr5V+LmoE2XfFP4Ki8EB60XPb0+iJgSPOcLxHPObc/QC4L8Da": "utter_cancel_booking",
+    "eJydj1EKwjAMQK/SA3iCXkUkdCWO4JaMLBOk7O5Wuh9BSN1fAi+Pl2vZL6Esik9I2Ug4htIG4DRjDMcy0WrIld1W1MoQ19ViGBXRdsexmaFCQ88ZnIpB5AEqMveV8KCNPi9yguy14B9BWfhO+qOn2+P05MQZJ/i8Rzx2Rn3fuM7bG0424Ro=": "action_listen",
+    "eJydj0EKhDAMAL/SB+wL+hVZgpUoQU0kxoWl9O9W6lGoektgmEyamD4uLoo/aDsjYe9iGYDbGb07l4lWQ87stqJmhjiv5t2giJYqjs0MFQr6zlCpCCIjqMh8r4SDFvq9qBJk/wUfBHXCPelFz21Ppec8AMd/xENK3x17NsFi": "utter_yes_confirm",
+    "eJydj1EKgzAMQK/SA3iCXmWMoJJJ2EwkjYIU776O+qfSzr8EHi8vj7g1Lk6KC7S9kbB3MQ/A7Yje7cuHgiEndg6oiSFOq3k3KKJtBcdshgoZvWcoVHQib1CRsa6EO830fVEhyNYJ/wjqhV+kJz3VnkLPfgB+/xEPdVUrhuuyg/H5BYD74Ro=": "action_listen"
+  }
+}
