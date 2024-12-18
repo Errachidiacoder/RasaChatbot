@@ -70,18 +70,7 @@ nlu:
       - family room, please.
       - family
 
-  # Bonjour Madame
-  # Je voudrais  vous informer d'un problème que j'ai rencontré en travaillant sur le développement du chatbot de réservation.
-  # J'ai suivi les étapes pour définir et utiliser des slots dans le chatbot, mais malheureusement,
-  #  j'ai rencontré des difficultés et les slots ne semblent pas fonctionner comme prévu.
-
-  # J'ai vérifié plusieurs fois la configuration des slots dans le fichier domain.yml et
-  # j'ai suivi les instructions dans la documentation de Rasa pour leur utilisation.
-  # Malgré cela, lorsque j'essaie d'accéder aux valeurs des slots dans les actions personnalisées, je ne reçois pas les valeurs attendues.
-  # Pour continuer à avancer dans le développement du chatbot, j'ai temporairement désactivé l'utilisation des slots en les commentant
-  # et j'ai adapté le fonctionnement du chatbot en conséquence.Je continue activement de rechercher une solution,
-  # et j'aimerais solliciter votre aide, Madame, si cela vous est possible
-  # Je vous prie de bien vouloir excuser ce contretemps et je vous remercie de votre compréhension.
+  
 
   # - intent: nbr_room
   #   examples: |
